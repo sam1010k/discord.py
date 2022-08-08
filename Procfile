@@ -1,0 +1,1 @@
+worker: gunicorn slash-commands:app --workers 1
