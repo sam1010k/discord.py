@@ -1,1 +1,1 @@
-worker: gunicorn slash-commands:app --workers 1
+worker: gunicorn figure_bot_main:app --workers 1
